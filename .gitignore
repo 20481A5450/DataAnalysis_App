@@ -12,3 +12,8 @@ ENV/
 env.bak/
 venv.bak/
 
+#cache files
+cache
+
+#log files
+pandasai.log
